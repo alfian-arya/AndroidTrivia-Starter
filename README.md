@@ -4,6 +4,18 @@ AndroidTrivia - starter code
 Starter code for Android Kotlin Fundamentals codelab 3.1: Create and add a
 fragment.
 
+Identitas
+------------
+Nama : ALFIAN ARYA
+
+NIM : D121191078
+
+MATA KULIAH : PEMROGRAMAN MOBILE
+
+Preview Aplikasi
+------------
+![1635926674974](https://user-images.githubusercontent.com/62926316/145934456-8ba097d1-8de7-4154-a962-427218cb1e7e.jpg)
+
 Introduction
 ------------
 
